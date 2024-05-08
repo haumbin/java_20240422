@@ -17,7 +17,7 @@ public class ArrayMin {
 		if(j>=0) {
 			number[i]=j;
 		} else {System.out.println("양수가 아닙니다. 양수를 입력해주세요");
-			i--;}
+			i--; }
 	}
 	
 		int min =number[0];

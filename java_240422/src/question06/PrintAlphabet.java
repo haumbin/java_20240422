@@ -1,6 +1,6 @@
 package question06;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 //public class PrintAlphabet {
 //	public static void main(String[] args) {
