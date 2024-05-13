@@ -13,9 +13,7 @@ public class Grade풀이 {
 		this.english = english;				
 	}
 	public int average() {
-		int average=(math+science+english)/3;
-		
-		return average;}
+		return (math+science+english)/3;}
 	
 	public static void main(String [] args) {
 		 Scanner scanner = new Scanner(System.in);
