@@ -17,6 +17,7 @@ public class ArrayMin {
 		if(j>=0) {
 			number[i]=j;
 		} else {System.out.println("양수가 아닙니다. 양수를 입력해주세요");
+		scanner.close();
 			i--; }
 	}
 	
@@ -29,7 +30,6 @@ public class ArrayMin {
 		}
 		
 	System.out.print("가장 작은 수는 "+min+"입니다.");
-	scanner.close();
 	}
 }
 
