@@ -18,7 +18,7 @@ public class LogicalOperator {
 		System.out.println("==================");
 		System.out.println((3>2)&&(3 > 4));
 //		3은 2보다 크고 3은 4보다 크다 = 두번째가 틀림 거짓
-		System.out.println((3!= 2)|| (-1 > 0));
+//		System.out.println((3!= 2)|| (-1 > 0));
 //		3은 2와 같지않다 또는 -1이 0보다 크다 중 하나는 맞는 말인가? =참
 		System.out.println((3!= 2)^(-1 > 0));
 		System.out.println((3!= 2)^(-1 > 0));
